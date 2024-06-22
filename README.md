@@ -10,16 +10,31 @@ Nickhil Tekwani, Tanya Kler, Alex Les, Gerri Fox
 
 ![2](docs/2.png)
 
-4. If you are the first in the conversation area, you should see “You are the HOST” at the top, if not, then that will read “You are a LISTENER”
+3. If you are the first in the conversation area, you should see “You are the HOST” at the top, if not, then that will read “You are a LISTENER”
 
 ![3](docs/3.png)
 
-6. Click the “Add Song” button
-7. Press the “Choose file” button and select a local MP3 file from your file system
-8. Input the song’s title and artist’s name and click submit then done
-9. View the requests and you should see your song added to the bottom of the list
-10. If you are the host, you can accept or reject each request. Accept a request and watch it move to the bottom of the queue
-11. At the top of this popup, you can see the current song playing. If you are the host, you can interact with the controls and play or pause the song, or repeat the last song or skip to the next song.
+4. Click the “Add Song” button
+
+![4](docs/4.png)
+
+5. Press the “Choose file” button and select a local MP3 file from your file system
+
+![5](docs/5.png)
+
+6. Input the song’s title and artist’s name and click submit then done
+
+![6](docs/6.png)
+
+7. View the requests and you should see your song added to the bottom of the list
+
+![7](docs/7.png)
+
+8. If you are the host, you can accept or reject each request. Accept a request and watch it move to the bottom of the queue
+
+![8](docs/8.png)
+
+9. At the top of this popup, you can see the current song playing. If you are the host, you can interact with the controls and play or pause the song, or repeat the last song or skip to the next song.
 
 ## Technical Overview
 
