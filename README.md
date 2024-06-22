@@ -7,9 +7,13 @@ Nickhil Tekwani, Tanya Kler, Alex Les, Gerri Fox
 
 1. Enter into/start an active conversation area
 2. Click the “Connect Audio” that appears within the social sidebar
+
 ![2](docs/2.png)
-3. If you are the first in the conversation area, you should see “You are the HOST” at the top, if not, then that will read “You are a LISTENER”
+
+4. If you are the first in the conversation area, you should see “You are the HOST” at the top, if not, then that will read “You are a LISTENER”
+
 ![3](docs/3.png)
+
 6. Click the “Add Song” button
 7. Press the “Choose file” button and select a local MP3 file from your file system
 8. Input the song’s title and artist’s name and click submit then done
