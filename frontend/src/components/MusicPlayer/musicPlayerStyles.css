@@ -1,0 +1,48 @@
+.music-player {
+  border-radius: 25px;
+  max-width: 350px;
+  background-color: rgb(255, 135, 56);
+  padding: 24px;
+  box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
+  margin: 5px auto auto auto;
+  color: whitesmoke;
+}
+
+.song-info {
+  text-align: center;
+  z-index: 1;
+  position: relative;
+}
+
+.title {
+  font-weight: 700;
+  font-size: large;
+  margin-bottom: 8px;
+}
+
+.artist {
+  font-weight: 500;
+  font-size: large;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.music-controls {
+  display: flex;
+  justify-content: space-evenly;
+  width: 75%;
+  margin: auto auto auto auto;
+  /* margin: 0 auto 15px; */
+}
+
+.music-controls .prev svg,
+.music-controls .next svg {
+  width: 30px;
+  height: 30px;
+}
+
+.music-controls .play svg,
+.music-controls .pause svg {
+  height: 50px;
+  width: 50px;
+}

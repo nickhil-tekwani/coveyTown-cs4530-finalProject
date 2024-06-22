@@ -1,0 +1,11 @@
+.button {
+  float: 'right';
+}
+
+.removeButton {
+  color: rgb(235, 63, 63);
+}
+
+.queueList {
+  padding-left: 12px;
+}

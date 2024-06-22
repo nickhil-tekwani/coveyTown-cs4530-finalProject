@@ -1,0 +1,38 @@
+.connectAudio {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(255, 135, 56);
+  padding: 7px;
+}
+
+.button {
+  color: rgb(0, 188, 221);
+}
+
+.songButton {
+  align-content: center;
+  justify-self: unset !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+  margin-top: 30px;
+  background-color: rgb(0, 188, 221);
+}
+
+.doneButton {
+  align-content: center;
+  justify-self: unset !important;
+  background-color: rgb(0, 188, 221);
+  margin-top: 15px !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+.headings {
+  text-align: center;
+  font-size: 18px;
+}
+
+.hostTitle {
+  font-weight: bold;
+  color: rgb(0, 188, 221);
+}

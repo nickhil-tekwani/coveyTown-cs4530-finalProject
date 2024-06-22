@@ -1,0 +1,60 @@
+* {
+  padding: 2px;
+}
+
+.mainText {
+  color: rgb(255, 135, 56);
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.inputs {
+  width: 80% !important;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.done {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.submit {
+  margin-top: 20px;
+  width: 40%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.inputGroup {
+  margin: auto !important;
+}
+
+.inputBox {
+  border: cadetblue 3px;
+}
+
+input[type='text'] {
+  width: 117%;
+  padding: 7px;
+  margin: 8px auto;
+
+  align-content: center;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input[type='text']:focus {
+  border: 3px solid rgb(0, 188, 221);
+}
+
+.paddingBelow {
+  margin-bottom: 15px;
+}
+
+.center {
+  margin: auto !important;
+}
